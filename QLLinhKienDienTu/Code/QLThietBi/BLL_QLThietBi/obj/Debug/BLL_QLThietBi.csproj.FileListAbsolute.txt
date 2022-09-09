@@ -1,0 +1,36 @@
+E:\LUUDULIEUSINHVIEN\HocKy_III\PhatTrien_PM\BaiTap\0_DA_KetMon\QLThietBi\BLL_QLThietBi\obj\Debug\BLL_QLThietBi.csprojResolveAssemblyReference.cache
+E:\LUUDULIEUSINHVIEN\HocKy_III\PhatTrien_PM\BaiTap\0_DA_KetMon\QLThietBi\BLL_QLThietBi\bin\Debug\BLL_QLThietBi.dll
+E:\LUUDULIEUSINHVIEN\HocKy_III\PhatTrien_PM\BaiTap\0_DA_KetMon\QLThietBi\BLL_QLThietBi\bin\Debug\BLL_QLThietBi.pdb
+E:\LUUDULIEUSINHVIEN\HocKy_III\PhatTrien_PM\BaiTap\0_DA_KetMon\QLThietBi\BLL_QLThietBi\bin\Debug\DAL_QLThietBi.dll
+E:\LUUDULIEUSINHVIEN\HocKy_III\PhatTrien_PM\BaiTap\0_DA_KetMon\QLThietBi\BLL_QLThietBi\bin\Debug\DTO_QLThietBi.dll
+E:\LUUDULIEUSINHVIEN\HocKy_III\PhatTrien_PM\BaiTap\0_DA_KetMon\QLThietBi\BLL_QLThietBi\bin\Debug\DAL_QLThietBi.pdb
+E:\LUUDULIEUSINHVIEN\HocKy_III\PhatTrien_PM\BaiTap\0_DA_KetMon\QLThietBi\BLL_QLThietBi\bin\Debug\DTO_QLThietBi.pdb
+E:\LUUDULIEUSINHVIEN\HocKy_III\PhatTrien_PM\BaiTap\0_DA_KetMon\QLThietBi\BLL_QLThietBi\obj\Debug\BLL_QLThietBi.dll
+E:\LUUDULIEUSINHVIEN\HocKy_III\PhatTrien_PM\BaiTap\0_DA_KetMon\QLThietBi\BLL_QLThietBi\obj\Debug\BLL_QLThietBi.pdb
+D:\GitHub\PTPM\ptpm\New folder\QLThietBi\BLL_QLThietBi\obj\Debug\BLL_QLThietBi.csprojResolveAssemblyReference.cache
+D:\GitHub\PTPM\ptpm\New folder\QLThietBi\BLL_QLThietBi\obj\Debug\BLL_QLThietBi.dll
+D:\GitHub\PTPM\ptpm\New folder\QLThietBi\BLL_QLThietBi\obj\Debug\BLL_QLThietBi.pdb
+D:\GitHub\PTPM\ptpm\New folder\QLThietBi\BLL_QLThietBi\bin\Debug\BLL_QLThietBi.dll
+D:\GitHub\PTPM\ptpm\New folder\QLThietBi\BLL_QLThietBi\bin\Debug\BLL_QLThietBi.pdb
+D:\GitHub\PTPM\ptpm\New folder\QLThietBi\BLL_QLThietBi\bin\Debug\DAL_QLThietBi.dll
+D:\GitHub\PTPM\ptpm\New folder\QLThietBi\BLL_QLThietBi\bin\Debug\DTO_QLThietBi.dll
+D:\GitHub\PTPM\ptpm\New folder\QLThietBi\BLL_QLThietBi\bin\Debug\DAL_QLThietBi.pdb
+D:\GitHub\PTPM\ptpm\New folder\QLThietBi\BLL_QLThietBi\bin\Debug\DTO_QLThietBi.pdb
+C:\Users\ttung\OneDrive\Desktop\QLThietBi\BLL_QLThietBi\bin\Debug\BLL_QLThietBi.dll
+C:\Users\ttung\OneDrive\Desktop\QLThietBi\BLL_QLThietBi\bin\Debug\BLL_QLThietBi.pdb
+C:\Users\ttung\OneDrive\Desktop\QLThietBi\BLL_QLThietBi\bin\Debug\DAL_QLThietBi.dll
+C:\Users\ttung\OneDrive\Desktop\QLThietBi\BLL_QLThietBi\bin\Debug\DTO_QLThietBi.dll
+C:\Users\ttung\OneDrive\Desktop\QLThietBi\BLL_QLThietBi\bin\Debug\DAL_QLThietBi.pdb
+C:\Users\ttung\OneDrive\Desktop\QLThietBi\BLL_QLThietBi\bin\Debug\DTO_QLThietBi.pdb
+C:\Users\ttung\OneDrive\Desktop\QLThietBi\BLL_QLThietBi\obj\Debug\BLL_QLThietBi.csprojResolveAssemblyReference.cache
+C:\Users\ttung\OneDrive\Desktop\QLThietBi\BLL_QLThietBi\obj\Debug\BLL_QLThietBi.dll
+C:\Users\ttung\OneDrive\Desktop\QLThietBi\BLL_QLThietBi\obj\Debug\BLL_QLThietBi.pdb
+E:\LUUDULIEUSINHVIEN\HocKy_III\PhatTrien_PM\BaiTap\DAMH_Nhom8_QLLinhKienDienTu\Code\QLThietBi\BLL_QLThietBi\bin\Debug\BLL_QLThietBi.dll
+E:\LUUDULIEUSINHVIEN\HocKy_III\PhatTrien_PM\BaiTap\DAMH_Nhom8_QLLinhKienDienTu\Code\QLThietBi\BLL_QLThietBi\bin\Debug\BLL_QLThietBi.pdb
+E:\LUUDULIEUSINHVIEN\HocKy_III\PhatTrien_PM\BaiTap\DAMH_Nhom8_QLLinhKienDienTu\Code\QLThietBi\BLL_QLThietBi\bin\Debug\DAL_QLThietBi.dll
+E:\LUUDULIEUSINHVIEN\HocKy_III\PhatTrien_PM\BaiTap\DAMH_Nhom8_QLLinhKienDienTu\Code\QLThietBi\BLL_QLThietBi\bin\Debug\DTO_QLThietBi.dll
+E:\LUUDULIEUSINHVIEN\HocKy_III\PhatTrien_PM\BaiTap\DAMH_Nhom8_QLLinhKienDienTu\Code\QLThietBi\BLL_QLThietBi\bin\Debug\DAL_QLThietBi.pdb
+E:\LUUDULIEUSINHVIEN\HocKy_III\PhatTrien_PM\BaiTap\DAMH_Nhom8_QLLinhKienDienTu\Code\QLThietBi\BLL_QLThietBi\bin\Debug\DTO_QLThietBi.pdb
+E:\LUUDULIEUSINHVIEN\HocKy_III\PhatTrien_PM\BaiTap\DAMH_Nhom8_QLLinhKienDienTu\Code\QLThietBi\BLL_QLThietBi\obj\Debug\BLL_QLThietBi.csprojResolveAssemblyReference.cache
+E:\LUUDULIEUSINHVIEN\HocKy_III\PhatTrien_PM\BaiTap\DAMH_Nhom8_QLLinhKienDienTu\Code\QLThietBi\BLL_QLThietBi\obj\Debug\BLL_QLThietBi.dll
+E:\LUUDULIEUSINHVIEN\HocKy_III\PhatTrien_PM\BaiTap\DAMH_Nhom8_QLLinhKienDienTu\Code\QLThietBi\BLL_QLThietBi\obj\Debug\BLL_QLThietBi.pdb

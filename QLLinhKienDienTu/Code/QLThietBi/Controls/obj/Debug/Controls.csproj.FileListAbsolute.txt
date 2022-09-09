@@ -1,0 +1,7 @@
+C:\Users\ttung\OneDrive\Desktop\QLThietBi\Controls\bin\Debug\Controls.dll
+C:\Users\ttung\OneDrive\Desktop\QLThietBi\Controls\bin\Debug\Controls.pdb
+C:\Users\ttung\OneDrive\Desktop\QLThietBi\Controls\obj\Debug\Controls.UCT_SanPham.resources
+C:\Users\ttung\OneDrive\Desktop\QLThietBi\Controls\obj\Debug\Controls.csproj.GenerateResource.Cache
+C:\Users\ttung\OneDrive\Desktop\QLThietBi\Controls\obj\Debug\Controls.dll
+C:\Users\ttung\OneDrive\Desktop\QLThietBi\Controls\obj\Debug\Controls.pdb
+C:\Users\ttung\OneDrive\Desktop\QLThietBi\Controls\obj\Debug\Controls.csprojResolveAssemblyReference.cache

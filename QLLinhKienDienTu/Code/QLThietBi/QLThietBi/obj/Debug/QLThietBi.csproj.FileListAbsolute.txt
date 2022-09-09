@@ -1,0 +1,118 @@
+E:\LUUDULIEUSINHVIEN\HocKy_III\PhatTrien_PM\BaiTap\0_DA_KetMon\QLThietBi\QLThietBi\bin\Debug\QLThietBi.exe.config
+E:\LUUDULIEUSINHVIEN\HocKy_III\PhatTrien_PM\BaiTap\0_DA_KetMon\QLThietBi\QLThietBi\obj\Debug\QLThietBi.csprojResolveAssemblyReference.cache
+E:\LUUDULIEUSINHVIEN\HocKy_III\PhatTrien_PM\BaiTap\0_DA_KetMon\QLThietBi\QLThietBi\obj\Debug\QLThietBi.Properties.Resources.resources
+E:\LUUDULIEUSINHVIEN\HocKy_III\PhatTrien_PM\BaiTap\0_DA_KetMon\QLThietBi\QLThietBi\obj\Debug\QLThietBi.csproj.GenerateResource.Cache
+E:\LUUDULIEUSINHVIEN\HocKy_III\PhatTrien_PM\BaiTap\0_DA_KetMon\QLThietBi\QLThietBi\bin\Debug\QLThietBi.exe
+E:\LUUDULIEUSINHVIEN\HocKy_III\PhatTrien_PM\BaiTap\0_DA_KetMon\QLThietBi\QLThietBi\bin\Debug\QLThietBi.pdb
+E:\LUUDULIEUSINHVIEN\HocKy_III\PhatTrien_PM\BaiTap\0_DA_KetMon\QLThietBi\QLThietBi\bin\Debug\BLL_QLThietBi.dll
+E:\LUUDULIEUSINHVIEN\HocKy_III\PhatTrien_PM\BaiTap\0_DA_KetMon\QLThietBi\QLThietBi\bin\Debug\DTO_QLThietBi.dll
+E:\LUUDULIEUSINHVIEN\HocKy_III\PhatTrien_PM\BaiTap\0_DA_KetMon\QLThietBi\QLThietBi\bin\Debug\DAL_QLThietBi.dll
+E:\LUUDULIEUSINHVIEN\HocKy_III\PhatTrien_PM\BaiTap\0_DA_KetMon\QLThietBi\QLThietBi\bin\Debug\BLL_QLThietBi.pdb
+E:\LUUDULIEUSINHVIEN\HocKy_III\PhatTrien_PM\BaiTap\0_DA_KetMon\QLThietBi\QLThietBi\bin\Debug\DTO_QLThietBi.pdb
+E:\LUUDULIEUSINHVIEN\HocKy_III\PhatTrien_PM\BaiTap\0_DA_KetMon\QLThietBi\QLThietBi\bin\Debug\DAL_QLThietBi.pdb
+E:\LUUDULIEUSINHVIEN\HocKy_III\PhatTrien_PM\BaiTap\0_DA_KetMon\QLThietBi\QLThietBi\obj\Debug\QLThietBi.exe
+E:\LUUDULIEUSINHVIEN\HocKy_III\PhatTrien_PM\BaiTap\0_DA_KetMon\QLThietBi\QLThietBi\obj\Debug\QLThietBi.pdb
+E:\LUUDULIEUSINHVIEN\HocKy_III\PhatTrien_PM\BaiTap\0_DA_KetMon\QLThietBi\QLThietBi\obj\Debug\QLThietBi.GUI_ThietBi.resources
+E:\LUUDULIEUSINHVIEN\HocKy_III\PhatTrien_PM\BaiTap\0_DA_KetMon\QLThietBi\QLThietBi\obj\Debug\QLThietBi.GUI_Loai.resources
+D:\GitHub\PTPM\ptpm\New folder\QLThietBi\QLThietBi\bin\Debug\QLThietBi.exe.config
+D:\GitHub\PTPM\ptpm\New folder\QLThietBi\QLThietBi\obj\Debug\QLThietBi.exe
+D:\GitHub\PTPM\ptpm\New folder\QLThietBi\QLThietBi\obj\Debug\QLThietBi.pdb
+D:\GitHub\PTPM\ptpm\New folder\QLThietBi\QLThietBi\bin\Debug\QLThietBi.exe
+D:\GitHub\PTPM\ptpm\New folder\QLThietBi\QLThietBi\bin\Debug\QLThietBi.pdb
+D:\GitHub\PTPM\ptpm\New folder\QLThietBi\QLThietBi\bin\Debug\BLL_QLThietBi.dll
+D:\GitHub\PTPM\ptpm\New folder\QLThietBi\QLThietBi\bin\Debug\DTO_QLThietBi.dll
+D:\GitHub\PTPM\ptpm\New folder\QLThietBi\QLThietBi\bin\Debug\DAL_QLThietBi.dll
+D:\GitHub\PTPM\ptpm\New folder\QLThietBi\QLThietBi\bin\Debug\BLL_QLThietBi.pdb
+D:\GitHub\PTPM\ptpm\New folder\QLThietBi\QLThietBi\bin\Debug\DTO_QLThietBi.pdb
+D:\GitHub\PTPM\ptpm\New folder\QLThietBi\QLThietBi\bin\Debug\DAL_QLThietBi.pdb
+D:\GitHub\PTPM\ptpm\New folder\QLThietBi\QLThietBi\obj\Debug\QLThietBi.csprojResolveAssemblyReference.cache
+D:\GitHub\PTPM\ptpm\New folder\QLThietBi\QLThietBi\obj\Debug\QLThietBi.Properties.Resources.resources
+D:\GitHub\PTPM\ptpm\New folder\QLThietBi\QLThietBi\obj\Debug\QLThietBi.csproj.GenerateResource.Cache
+D:\GitHub\PTPM\ptpm\New folder\QLThietBi\QLThietBi\obj\Debug\QLThietBi.Presentation.GUI_NhapHang.resources
+D:\GitHub\PTPM\ptpm\New folder\QLThietBi\QLThietBi\obj\Debug\QLThietBi.Presentation.GUI_DonNhapHang.resources
+D:\GitHub\PTPM\ptpm\New folder\QLThietBi\QLThietBi\obj\Debug\QLThietBi.Presentation.GUI_Loai.resources
+D:\GitHub\PTPM\ptpm\New folder\QLThietBi\QLThietBi\obj\Debug\QLThietBi.Presentation.GUI_Main.resources
+D:\GitHub\PTPM\ptpm\New folder\QLThietBi\QLThietBi\obj\Debug\QLThietBi.Presentation.GUI_ThietBi.resources
+D:\GitHub\PTPM\ptpm\New folder\QLThietBi\QLThietBi\obj\Debug\QLThietBi.Presentation.GUI_PhanQuyen.resources
+D:\GitHub\PTPM\ptpm\New folder\QLThietBi\QLThietBi\obj\Debug\QLThietBi.Presentation.GUI_TaiKhoang.resources
+D:\GitHub\PTPM\ptpm\New folder\QLThietBi\QLThietBi\obj\Debug\QLThietBi.Presentation.GUI_DangNhap.resources
+D:\GitHub\PTPM\ptpm\QLThietBi\QLThietBi\bin\Debug\QLThietBi.exe.config
+D:\GitHub\PTPM\ptpm\QLThietBi\QLThietBi\obj\Debug\QLThietBi.exe
+D:\GitHub\PTPM\ptpm\QLThietBi\QLThietBi\obj\Debug\QLThietBi.pdb
+D:\GitHub\PTPM\ptpm\QLThietBi\QLThietBi\bin\Debug\QLThietBi.exe
+D:\GitHub\PTPM\ptpm\QLThietBi\QLThietBi\bin\Debug\QLThietBi.pdb
+D:\GitHub\PTPM\ptpm\QLThietBi\QLThietBi\bin\Debug\BLL_QLThietBi.dll
+D:\GitHub\PTPM\ptpm\QLThietBi\QLThietBi\bin\Debug\DTO_QLThietBi.dll
+D:\GitHub\PTPM\ptpm\QLThietBi\QLThietBi\bin\Debug\DAL_QLThietBi.dll
+D:\GitHub\PTPM\ptpm\QLThietBi\QLThietBi\bin\Debug\BLL_QLThietBi.pdb
+D:\GitHub\PTPM\ptpm\QLThietBi\QLThietBi\bin\Debug\DTO_QLThietBi.pdb
+D:\GitHub\PTPM\ptpm\QLThietBi\QLThietBi\bin\Debug\DAL_QLThietBi.pdb
+D:\GitHub\PTPM\ptpm\QLThietBi\QLThietBi\obj\Debug\QLThietBi.csprojResolveAssemblyReference.cache
+D:\GitHub\PTPM\ptpm\QLThietBi\QLThietBi\obj\Debug\QLThietBi.Presentation.GUI_DangNhap.resources
+D:\GitHub\PTPM\ptpm\QLThietBi\QLThietBi\obj\Debug\QLThietBi.Presentation.GUI_DonHang.resources
+D:\GitHub\PTPM\ptpm\QLThietBi\QLThietBi\obj\Debug\QLThietBi.Presentation.GUI_DonNhapHang.resources
+D:\GitHub\PTPM\ptpm\QLThietBi\QLThietBi\obj\Debug\QLThietBi.Presentation.GUI_Loai.resources
+D:\GitHub\PTPM\ptpm\QLThietBi\QLThietBi\obj\Debug\QLThietBi.Presentation.GUI_Main.resources
+D:\GitHub\PTPM\ptpm\QLThietBi\QLThietBi\obj\Debug\QLThietBi.Presentation.GUI_NhapHang.resources
+D:\GitHub\PTPM\ptpm\QLThietBi\QLThietBi\obj\Debug\QLThietBi.Presentation.GUI_PhanQuyen.resources
+D:\GitHub\PTPM\ptpm\QLThietBi\QLThietBi\obj\Debug\QLThietBi.Presentation.GUI_TaiKhoang.resources
+D:\GitHub\PTPM\ptpm\QLThietBi\QLThietBi\obj\Debug\QLThietBi.Presentation.GUI_ThietBi.resources
+D:\GitHub\PTPM\ptpm\QLThietBi\QLThietBi\obj\Debug\QLThietBi.Properties.Resources.resources
+D:\GitHub\PTPM\ptpm\QLThietBi\QLThietBi\obj\Debug\QLThietBi.csproj.GenerateResource.Cache
+C:\Users\ttung\OneDrive\Desktop\QLThietBi\QLThietBi\bin\Debug\QLThietBi.exe.config
+C:\Users\ttung\OneDrive\Desktop\QLThietBi\QLThietBi\bin\Debug\QLThietBi.exe
+C:\Users\ttung\OneDrive\Desktop\QLThietBi\QLThietBi\bin\Debug\QLThietBi.pdb
+C:\Users\ttung\OneDrive\Desktop\QLThietBi\QLThietBi\bin\Debug\BLL_QLThietBi.dll
+C:\Users\ttung\OneDrive\Desktop\QLThietBi\QLThietBi\bin\Debug\DTO_QLThietBi.dll
+C:\Users\ttung\OneDrive\Desktop\QLThietBi\QLThietBi\bin\Debug\DAL_QLThietBi.dll
+C:\Users\ttung\OneDrive\Desktop\QLThietBi\QLThietBi\bin\Debug\BLL_QLThietBi.pdb
+C:\Users\ttung\OneDrive\Desktop\QLThietBi\QLThietBi\bin\Debug\DTO_QLThietBi.pdb
+C:\Users\ttung\OneDrive\Desktop\QLThietBi\QLThietBi\bin\Debug\DAL_QLThietBi.pdb
+C:\Users\ttung\OneDrive\Desktop\QLThietBi\QLThietBi\obj\Debug\QLThietBi.csprojResolveAssemblyReference.cache
+C:\Users\ttung\OneDrive\Desktop\QLThietBi\QLThietBi\obj\Debug\QLThietBi.Presentation.GUI_BanHang.resources
+C:\Users\ttung\OneDrive\Desktop\QLThietBi\QLThietBi\obj\Debug\QLThietBi.Presentation.GUI_DangNhap.resources
+C:\Users\ttung\OneDrive\Desktop\QLThietBi\QLThietBi\obj\Debug\QLThietBi.Presentation.GUI_DonHang.resources
+C:\Users\ttung\OneDrive\Desktop\QLThietBi\QLThietBi\obj\Debug\QLThietBi.Presentation.GUI_Loai.resources
+C:\Users\ttung\OneDrive\Desktop\QLThietBi\QLThietBi\obj\Debug\QLThietBi.Presentation.GUI_Main.resources
+C:\Users\ttung\OneDrive\Desktop\QLThietBi\QLThietBi\obj\Debug\QLThietBi.Presentation.GUI_NhapHang.resources
+C:\Users\ttung\OneDrive\Desktop\QLThietBi\QLThietBi\obj\Debug\QLThietBi.Presentation.GUI_PhanQuyen.resources
+C:\Users\ttung\OneDrive\Desktop\QLThietBi\QLThietBi\obj\Debug\QLThietBi.Presentation.GUI_TaiKhoang.resources
+C:\Users\ttung\OneDrive\Desktop\QLThietBi\QLThietBi\obj\Debug\QLThietBi.Presentation.GUI_ThietBi.resources
+C:\Users\ttung\OneDrive\Desktop\QLThietBi\QLThietBi\obj\Debug\QLThietBi.Properties.Resources.resources
+C:\Users\ttung\OneDrive\Desktop\QLThietBi\QLThietBi\obj\Debug\QLThietBi.csproj.GenerateResource.Cache
+C:\Users\ttung\OneDrive\Desktop\QLThietBi\QLThietBi\obj\Debug\QLThietBi.exe
+C:\Users\ttung\OneDrive\Desktop\QLThietBi\QLThietBi\obj\Debug\QLThietBi.pdb
+C:\Users\ttung\OneDrive\Desktop\QLThietBi\QLThietBi\obj\Debug\QLThietBi.Presentation.GUI_CoSo.resources
+C:\Users\ttung\OneDrive\Desktop\QLThietBi\QLThietBi\obj\Debug\QLThietBi.Presentation.GUI_KhachHang.resources
+C:\Users\ttung\OneDrive\Desktop\QLThietBi\QLThietBi\obj\Debug\QLThietBi.Presentation.GUI_NhaCungCap.resources
+C:\Users\ttung\OneDrive\Desktop\QLThietBi\QLThietBi\obj\Debug\QLThietBi.Presentation.GUI_NhanVien.resources
+C:\Users\ttung\OneDrive\Desktop\QLThietBi\QLThietBi\obj\Debug\QLThietBi.Presentation.GUI_BAOCAO.resources
+E:\LUUDULIEUSINHVIEN\HocKy_III\PhatTrien_PM\BaiTap\DAMH_Nhom8_QLLinhKienDienTu\Code\QLThietBi\QLThietBi\bin\Debug\QLThietBi.exe.config
+E:\LUUDULIEUSINHVIEN\HocKy_III\PhatTrien_PM\BaiTap\DAMH_Nhom8_QLLinhKienDienTu\Code\QLThietBi\QLThietBi\obj\Debug\QLThietBi.exe
+E:\LUUDULIEUSINHVIEN\HocKy_III\PhatTrien_PM\BaiTap\DAMH_Nhom8_QLLinhKienDienTu\Code\QLThietBi\QLThietBi\obj\Debug\QLThietBi.pdb
+E:\LUUDULIEUSINHVIEN\HocKy_III\PhatTrien_PM\BaiTap\DAMH_Nhom8_QLLinhKienDienTu\Code\QLThietBi\QLThietBi\bin\Debug\QLThietBi.exe
+E:\LUUDULIEUSINHVIEN\HocKy_III\PhatTrien_PM\BaiTap\DAMH_Nhom8_QLLinhKienDienTu\Code\QLThietBi\QLThietBi\bin\Debug\QLThietBi.pdb
+E:\LUUDULIEUSINHVIEN\HocKy_III\PhatTrien_PM\BaiTap\DAMH_Nhom8_QLLinhKienDienTu\Code\QLThietBi\QLThietBi\bin\Debug\BLL_QLThietBi.dll
+E:\LUUDULIEUSINHVIEN\HocKy_III\PhatTrien_PM\BaiTap\DAMH_Nhom8_QLLinhKienDienTu\Code\QLThietBi\QLThietBi\bin\Debug\DTO_QLThietBi.dll
+E:\LUUDULIEUSINHVIEN\HocKy_III\PhatTrien_PM\BaiTap\DAMH_Nhom8_QLLinhKienDienTu\Code\QLThietBi\QLThietBi\bin\Debug\DAL_QLThietBi.dll
+E:\LUUDULIEUSINHVIEN\HocKy_III\PhatTrien_PM\BaiTap\DAMH_Nhom8_QLLinhKienDienTu\Code\QLThietBi\QLThietBi\bin\Debug\BLL_QLThietBi.pdb
+E:\LUUDULIEUSINHVIEN\HocKy_III\PhatTrien_PM\BaiTap\DAMH_Nhom8_QLLinhKienDienTu\Code\QLThietBi\QLThietBi\bin\Debug\DTO_QLThietBi.pdb
+E:\LUUDULIEUSINHVIEN\HocKy_III\PhatTrien_PM\BaiTap\DAMH_Nhom8_QLLinhKienDienTu\Code\QLThietBi\QLThietBi\bin\Debug\DAL_QLThietBi.pdb
+E:\LUUDULIEUSINHVIEN\HocKy_III\PhatTrien_PM\BaiTap\DAMH_Nhom8_QLLinhKienDienTu\Code\QLThietBi\QLThietBi\obj\Debug\QLThietBi.csprojResolveAssemblyReference.cache
+E:\LUUDULIEUSINHVIEN\HocKy_III\PhatTrien_PM\BaiTap\DAMH_Nhom8_QLLinhKienDienTu\Code\QLThietBi\QLThietBi\obj\Debug\QLThietBi.Presentation.GUI_BanHang.resources
+E:\LUUDULIEUSINHVIEN\HocKy_III\PhatTrien_PM\BaiTap\DAMH_Nhom8_QLLinhKienDienTu\Code\QLThietBi\QLThietBi\obj\Debug\QLThietBi.Presentation.GUI_BAOCAO.resources
+E:\LUUDULIEUSINHVIEN\HocKy_III\PhatTrien_PM\BaiTap\DAMH_Nhom8_QLLinhKienDienTu\Code\QLThietBi\QLThietBi\obj\Debug\QLThietBi.Presentation.GUI_CoSo.resources
+E:\LUUDULIEUSINHVIEN\HocKy_III\PhatTrien_PM\BaiTap\DAMH_Nhom8_QLLinhKienDienTu\Code\QLThietBi\QLThietBi\obj\Debug\QLThietBi.Presentation.GUI_DangNhap.resources
+E:\LUUDULIEUSINHVIEN\HocKy_III\PhatTrien_PM\BaiTap\DAMH_Nhom8_QLLinhKienDienTu\Code\QLThietBi\QLThietBi\obj\Debug\QLThietBi.Presentation.GUI_DonHang.resources
+E:\LUUDULIEUSINHVIEN\HocKy_III\PhatTrien_PM\BaiTap\DAMH_Nhom8_QLLinhKienDienTu\Code\QLThietBi\QLThietBi\obj\Debug\QLThietBi.Presentation.GUI_KhachHang.resources
+E:\LUUDULIEUSINHVIEN\HocKy_III\PhatTrien_PM\BaiTap\DAMH_Nhom8_QLLinhKienDienTu\Code\QLThietBi\QLThietBi\obj\Debug\QLThietBi.Presentation.GUI_Loai.resources
+E:\LUUDULIEUSINHVIEN\HocKy_III\PhatTrien_PM\BaiTap\DAMH_Nhom8_QLLinhKienDienTu\Code\QLThietBi\QLThietBi\obj\Debug\QLThietBi.Presentation.GUI_Main.resources
+E:\LUUDULIEUSINHVIEN\HocKy_III\PhatTrien_PM\BaiTap\DAMH_Nhom8_QLLinhKienDienTu\Code\QLThietBi\QLThietBi\obj\Debug\QLThietBi.Presentation.GUI_NhaCungCap.resources
+E:\LUUDULIEUSINHVIEN\HocKy_III\PhatTrien_PM\BaiTap\DAMH_Nhom8_QLLinhKienDienTu\Code\QLThietBi\QLThietBi\obj\Debug\QLThietBi.Presentation.GUI_NhanVien.resources
+E:\LUUDULIEUSINHVIEN\HocKy_III\PhatTrien_PM\BaiTap\DAMH_Nhom8_QLLinhKienDienTu\Code\QLThietBi\QLThietBi\obj\Debug\QLThietBi.Presentation.GUI_NhapHang.resources
+E:\LUUDULIEUSINHVIEN\HocKy_III\PhatTrien_PM\BaiTap\DAMH_Nhom8_QLLinhKienDienTu\Code\QLThietBi\QLThietBi\obj\Debug\QLThietBi.Presentation.GUI_PhanQuyen.resources
+E:\LUUDULIEUSINHVIEN\HocKy_III\PhatTrien_PM\BaiTap\DAMH_Nhom8_QLLinhKienDienTu\Code\QLThietBi\QLThietBi\obj\Debug\QLThietBi.Presentation.GUI_TaiKhoang.resources
+E:\LUUDULIEUSINHVIEN\HocKy_III\PhatTrien_PM\BaiTap\DAMH_Nhom8_QLLinhKienDienTu\Code\QLThietBi\QLThietBi\obj\Debug\QLThietBi.Presentation.GUI_ThietBi.resources
+E:\LUUDULIEUSINHVIEN\HocKy_III\PhatTrien_PM\BaiTap\DAMH_Nhom8_QLLinhKienDienTu\Code\QLThietBi\QLThietBi\obj\Debug\QLThietBi.Properties.Resources.resources
+E:\LUUDULIEUSINHVIEN\HocKy_III\PhatTrien_PM\BaiTap\DAMH_Nhom8_QLLinhKienDienTu\Code\QLThietBi\QLThietBi\obj\Debug\QLThietBi.csproj.GenerateResource.Cache
+E:\LUUDULIEUSINHVIEN\HocKy_III\PhatTrien_PM\BaiTap\DAMH_Nhom8_QLLinhKienDienTu\Code\QLThietBi\QLThietBi\obj\Debug\QLThietBi.Presentation.GUI_Main_1.resources

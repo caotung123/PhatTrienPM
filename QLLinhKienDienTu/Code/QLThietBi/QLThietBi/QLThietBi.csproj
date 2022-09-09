@@ -1,0 +1,365 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{D08AB6A7-9825-420D-BF31-BF3404F2CDA9}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>QLThietBi</RootNamespace>
+    <AssemblyName>QLThietBi</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Data.Linq" />
+    <Reference Include="System.Data.SqlXml" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Presentation\GUI_BanHang.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Presentation\GUI_BanHang.Designer.cs">
+      <DependentUpon>GUI_BanHang.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Presentation\GUI_BAOCAO.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Presentation\GUI_BAOCAO.Designer.cs">
+      <DependentUpon>GUI_BAOCAO.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Presentation\GUI_CoSo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Presentation\GUI_CoSo.Designer.cs">
+      <DependentUpon>GUI_CoSo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Presentation\GUI_DangNhap.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Presentation\GUI_DangNhap.Designer.cs">
+      <DependentUpon>GUI_DangNhap.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Presentation\GUI_DonHang.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Presentation\GUI_DonHang.Designer.cs">
+      <DependentUpon>GUI_DonHang.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Presentation\GUI_KhachHang.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Presentation\GUI_KhachHang.Designer.cs">
+      <DependentUpon>GUI_KhachHang.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Presentation\GUI_Loai.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Presentation\GUI_Loai.Designer.cs">
+      <DependentUpon>GUI_Loai.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Presentation\GUI_Main.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Presentation\GUI_Main.Designer.cs">
+      <DependentUpon>GUI_Main.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Presentation\GUI_Main_1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Presentation\GUI_Main_1.Designer.cs">
+      <DependentUpon>GUI_Main_1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Presentation\GUI_NhaCungCap.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Presentation\GUI_NhaCungCap.Designer.cs">
+      <DependentUpon>GUI_NhaCungCap.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Presentation\GUI_NhanVien.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Presentation\GUI_NhanVien.Designer.cs">
+      <DependentUpon>GUI_NhanVien.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Presentation\GUI_NhapHang.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Presentation\GUI_NhapHang.Designer.cs">
+      <DependentUpon>GUI_NhapHang.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Presentation\GUI_PhanQuyen.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Presentation\GUI_PhanQuyen.Designer.cs">
+      <DependentUpon>GUI_PhanQuyen.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Presentation\GUI_TaiKhoang.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Presentation\GUI_TaiKhoang.Designer.cs">
+      <DependentUpon>GUI_TaiKhoang.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Presentation\GUI_ThietBi.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Presentation\GUI_ThietBi.Designer.cs">
+      <DependentUpon>GUI_ThietBi.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="Presentation\GUI_BanHang.resx">
+      <DependentUpon>GUI_BanHang.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentation\GUI_BAOCAO.resx">
+      <DependentUpon>GUI_BAOCAO.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentation\GUI_CoSo.resx">
+      <DependentUpon>GUI_CoSo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentation\GUI_DangNhap.resx">
+      <DependentUpon>GUI_DangNhap.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentation\GUI_DonHang.resx">
+      <DependentUpon>GUI_DonHang.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentation\GUI_KhachHang.resx">
+      <DependentUpon>GUI_KhachHang.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentation\GUI_Loai.resx">
+      <DependentUpon>GUI_Loai.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentation\GUI_Main.resx">
+      <DependentUpon>GUI_Main.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentation\GUI_Main_1.resx">
+      <DependentUpon>GUI_Main_1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentation\GUI_NhaCungCap.resx">
+      <DependentUpon>GUI_NhaCungCap.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentation\GUI_NhanVien.resx">
+      <DependentUpon>GUI_NhanVien.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentation\GUI_NhapHang.resx">
+      <DependentUpon>GUI_NhapHang.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentation\GUI_PhanQuyen.resx">
+      <DependentUpon>GUI_PhanQuyen.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentation\GUI_TaiKhoang.resx">
+      <DependentUpon>GUI_TaiKhoang.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentation\GUI_ThietBi.resx">
+      <DependentUpon>GUI_ThietBi.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\BLL_QLThietBi\BLL_QLThietBi.csproj">
+      <Project>{48f29d28-f20b-4e4d-8e9c-6a8255231858}</Project>
+      <Name>BLL_QLThietBi</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\DTO_QLThietBi\DTO_QLThietBi.csproj">
+      <Project>{f524eb0b-77d8-4ee8-bd98-44a96218bfa8}</Project>
+      <Name>DTO_QLThietBi</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Resources\000001.jpg" />
+    <Content Include="Resources\000002.jpg" />
+    <Content Include="Resources\000003.jpg" />
+    <Content Include="Resources\000004.jpg" />
+    <Content Include="Resources\000005.jpg" />
+    <Content Include="Resources\000006.jpg" />
+    <Content Include="Resources\000007.jpg" />
+    <Content Include="Resources\000008.jpg" />
+    <Content Include="Resources\000009.jpg" />
+    <Content Include="Resources\000010.jpg" />
+    <Content Include="Resources\000011.jpg" />
+    <Content Include="Resources\000012.jpg" />
+    <Content Include="Resources\000013.jpg" />
+    <Content Include="Resources\000014.jpg" />
+    <Content Include="Resources\000015.jpg" />
+    <Content Include="Resources\000016.jpg" />
+    <Content Include="Resources\000017.jpg" />
+    <Content Include="Resources\000018.jpg" />
+    <Content Include="Resources\000019.jpg" />
+    <Content Include="Resources\000020.jpg" />
+    <Content Include="Resources\000021.jpg" />
+    <Content Include="Resources\000022.jpg" />
+    <Content Include="Resources\000023.jpg" />
+    <Content Include="Resources\000024.jpg" />
+    <Content Include="Resources\000025.jpg" />
+    <Content Include="Resources\000026.jpg" />
+    <Content Include="Resources\000027.jpg" />
+    <Content Include="Resources\000028.jpg" />
+    <Content Include="Resources\000029.jpg" />
+    <Content Include="Resources\000030.jpg" />
+    <Content Include="Resources\000031.jpg" />
+    <Content Include="Resources\000032.jpg" />
+    <Content Include="Resources\000033.jpg" />
+    <Content Include="Resources\000034.jpg" />
+    <Content Include="Resources\000035.jpg" />
+    <Content Include="Resources\000036.jpg" />
+    <Content Include="Resources\000037.jpg" />
+    <Content Include="Resources\000038.jpg" />
+    <Content Include="Resources\000039.jpg" />
+    <Content Include="Resources\000040.jpg" />
+    <Content Include="Resources\000041.jpg" />
+    <Content Include="Resources\000042.jpg" />
+    <Content Include="Resources\000043.jpg" />
+    <Content Include="Resources\000044.jpg" />
+    <Content Include="Resources\000045.jpg" />
+    <Content Include="Resources\000046.jpg" />
+    <Content Include="Resources\000047.jpg" />
+    <Content Include="Resources\000048.jpg" />
+    <Content Include="Resources\000049.jpg" />
+    <Content Include="Resources\000050.jpg" />
+    <Content Include="Resources\000051.jpg" />
+    <Content Include="Resources\000052.jpg" />
+    <Content Include="Resources\000053.jpg" />
+    <Content Include="Resources\000054.jpg" />
+    <Content Include="Resources\000055.jpg" />
+    <Content Include="Resources\000056.jpg" />
+    <Content Include="Resources\000057.jpg" />
+    <Content Include="Resources\000058.jpg" />
+    <Content Include="Resources\000059.jpg" />
+    <Content Include="Resources\000060.jpg" />
+    <Content Include="Resources\000061.jpg" />
+    <Content Include="Resources\000062.jpg" />
+    <Content Include="Resources\000063.jpg" />
+    <Content Include="Resources\000064.jpg" />
+    <Content Include="Resources\10799735_955247194489946_1847856557_n.jpg" />
+    <Content Include="Resources\994849_563440020371129_1594360530_n.jpg" />
+    <Content Include="Resources\a.jpg" />
+    <Content Include="Resources\a123.jpg" />
+    <Content Include="Resources\aadasdsa.jpg" />
+    <Content Include="Resources\ACPK01.jpg" />
+    <Content Include="Resources\ACPK02.jpg" />
+    <Content Include="Resources\Add.png" />
+    <Content Include="Resources\Add1.png" />
+    <Content Include="Resources\APDT01.jpg" />
+    <Content Include="Resources\APDT02.jpg" />
+    <Content Include="Resources\asp.net-mvc.jpg" />
+    <Content Include="Resources\AZDT01.jpg" />
+    <Content Include="Resources\AZDT02.jpg" />
+    <Content Include="Resources\b.jpg" />
+    <Content Include="Resources\buy.png" />
+    <Content Include="Resources\buy2.png" />
+    <Content Include="Resources\buy3.png" />
+    <Content Include="Resources\buy4.png" />
+    <Content Include="Resources\buy5.png" />
+    <Content Include="Resources\Close-2-icon - Copy.png" />
+    <Content Include="Resources\Close-2-icon.png" />
+    <Content Include="Resources\Delete - Copy.png" />
+    <Content Include="Resources\Delete.png" />
+    <Content Include="Resources\delete_Image.png" />
+    <Content Include="Resources\dsadas.jpg" />
+    <Content Include="Resources\edit-image.png" />
+    <Content Include="Resources\empty.png" />
+    <Content Include="Resources\Exit.png" />
+    <Content Include="Resources\Finance-Purchase-Order-icon.png" />
+    <Content Include="Resources\hide.png" />
+    <Content Include="Resources\hide_2.png" />
+    <Content Include="Resources\hien.png" />
+    <Content Include="Resources\hinh1.jpg" />
+    <Content Include="Resources\hinh2.jpg" />
+    <Content Include="Resources\hinh3.jpg" />
+    <Content Include="Resources\hinh4.jpg" />
+    <Content Include="Resources\hinh5.png" />
+    <Content Include="Resources\hinh6.png" />
+    <Content Include="Resources\hinh7.png" />
+    <Content Include="Resources\hinh8.png" />
+    <Content Include="Resources\hinh9.png" />
+    <Content Include="Resources\image.png" />
+    <Content Include="Resources\insert_Image.png" />
+    <Content Include="Resources\insert_picture.png" />
+    <Content Include="Resources\Load - Copy.png" />
+    <Content Include="Resources\Load.png" />
+    <Content Include="Resources\Modify.png" />
+    <Content Include="Resources\nnn.jpg" />
+    <Content Include="Resources\OPDT01.jpg" />
+    <Content Include="Resources\OPDT02.jpg" />
+    <Content Include="Resources\Print-icon.png" />
+    <Content Include="Resources\RZPK01.jpg" />
+    <Content Include="Resources\RZPK02.jpg" />
+    <Content Include="Resources\RZPK03.jpg" />
+    <Content Include="Resources\RZPK04.jpg" />
+    <Content Include="Resources\Save.png" />
+    <Content Include="Resources\SNTV01.jpg" />
+    <Content Include="Resources\SNTV02.jpg" />
+    <Content Include="Resources\sort-ascending-icon.png" />
+    <Content Include="Resources\sort-descending-icon.png" />
+    <Content Include="Resources\SSMG01.jpg" />
+    <Content Include="Resources\SSMG02.jpg" />
+    <Content Include="Resources\SSPK01.jpg" />
+    <Content Include="Resources\SSTL01.jpg" />
+    <Content Include="Resources\SSTL02.jpg" />
+    <Content Include="Resources\SSTV01.jpg" />
+    <Content Include="Resources\SSTV02.jpg" />
+    <Content Include="Resources\SSTV03.jpg" />
+    <Content Include="Resources\XDT01.jpg" />
+    <Content Include="Resources\XDT02.jpg" />
+  </ItemGroup>
+  <ItemGroup />
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

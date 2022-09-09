@@ -1,0 +1,160 @@
+D:\DaiHoc\BaitapDHTH\PhatTrienPhanMem\DoAn\TinHocNgoiSao\TinHocNgoiSao\bin\TinHocNgoiSao.dll.config
+D:\DaiHoc\BaitapDHTH\PhatTrienPhanMem\DoAn\TinHocNgoiSao\TinHocNgoiSao\bin\TinHocNgoiSao.dll
+D:\DaiHoc\BaitapDHTH\PhatTrienPhanMem\DoAn\TinHocNgoiSao\TinHocNgoiSao\bin\TinHocNgoiSao.pdb
+D:\DaiHoc\BaitapDHTH\PhatTrienPhanMem\DoAn\TinHocNgoiSao\TinHocNgoiSao\bin\Antlr3.Runtime.dll
+D:\DaiHoc\BaitapDHTH\PhatTrienPhanMem\DoAn\TinHocNgoiSao\TinHocNgoiSao\bin\EntityFramework.dll
+D:\DaiHoc\BaitapDHTH\PhatTrienPhanMem\DoAn\TinHocNgoiSao\TinHocNgoiSao\bin\Microsoft.Web.Infrastructure.dll
+D:\DaiHoc\BaitapDHTH\PhatTrienPhanMem\DoAn\TinHocNgoiSao\TinHocNgoiSao\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+D:\DaiHoc\BaitapDHTH\PhatTrienPhanMem\DoAn\TinHocNgoiSao\TinHocNgoiSao\bin\Newtonsoft.Json.dll
+D:\DaiHoc\BaitapDHTH\PhatTrienPhanMem\DoAn\TinHocNgoiSao\TinHocNgoiSao\bin\System.Net.Http.Formatting.dll
+D:\DaiHoc\BaitapDHTH\PhatTrienPhanMem\DoAn\TinHocNgoiSao\TinHocNgoiSao\bin\System.Web.Http.dll
+D:\DaiHoc\BaitapDHTH\PhatTrienPhanMem\DoAn\TinHocNgoiSao\TinHocNgoiSao\bin\System.Web.Http.WebHost.dll
+D:\DaiHoc\BaitapDHTH\PhatTrienPhanMem\DoAn\TinHocNgoiSao\TinHocNgoiSao\bin\System.Web.Mvc.dll
+D:\DaiHoc\BaitapDHTH\PhatTrienPhanMem\DoAn\TinHocNgoiSao\TinHocNgoiSao\bin\System.Web.Optimization.dll
+D:\DaiHoc\BaitapDHTH\PhatTrienPhanMem\DoAn\TinHocNgoiSao\TinHocNgoiSao\bin\System.Web.Providers.dll
+D:\DaiHoc\BaitapDHTH\PhatTrienPhanMem\DoAn\TinHocNgoiSao\TinHocNgoiSao\bin\System.Web.Razor.dll
+D:\DaiHoc\BaitapDHTH\PhatTrienPhanMem\DoAn\TinHocNgoiSao\TinHocNgoiSao\bin\System.Web.WebPages.Deployment.dll
+D:\DaiHoc\BaitapDHTH\PhatTrienPhanMem\DoAn\TinHocNgoiSao\TinHocNgoiSao\bin\System.Web.WebPages.dll
+D:\DaiHoc\BaitapDHTH\PhatTrienPhanMem\DoAn\TinHocNgoiSao\TinHocNgoiSao\bin\System.Web.WebPages.Razor.dll
+D:\DaiHoc\BaitapDHTH\PhatTrienPhanMem\DoAn\TinHocNgoiSao\TinHocNgoiSao\bin\WebGrease.dll
+D:\DaiHoc\BaitapDHTH\PhatTrienPhanMem\DoAn\TinHocNgoiSao\TinHocNgoiSao\bin\EntityFramework.xml
+D:\DaiHoc\BaitapDHTH\PhatTrienPhanMem\DoAn\TinHocNgoiSao\TinHocNgoiSao\bin\Newtonsoft.Json.xml
+D:\DaiHoc\BaitapDHTH\PhatTrienPhanMem\DoAn\TinHocNgoiSao\TinHocNgoiSao\bin\System.Net.Http.Formatting.xml
+D:\DaiHoc\BaitapDHTH\PhatTrienPhanMem\DoAn\TinHocNgoiSao\TinHocNgoiSao\bin\System.Web.Http.xml
+D:\DaiHoc\BaitapDHTH\PhatTrienPhanMem\DoAn\TinHocNgoiSao\TinHocNgoiSao\bin\System.Web.Http.WebHost.xml
+D:\DaiHoc\BaitapDHTH\PhatTrienPhanMem\DoAn\TinHocNgoiSao\TinHocNgoiSao\bin\System.Web.Mvc.xml
+D:\DaiHoc\BaitapDHTH\PhatTrienPhanMem\DoAn\TinHocNgoiSao\TinHocNgoiSao\bin\System.Web.Razor.xml
+D:\DaiHoc\BaitapDHTH\PhatTrienPhanMem\DoAn\TinHocNgoiSao\TinHocNgoiSao\bin\System.Web.WebPages.xml
+D:\DaiHoc\BaitapDHTH\PhatTrienPhanMem\DoAn\TinHocNgoiSao\TinHocNgoiSao\bin\System.Web.WebPages.Deployment.xml
+D:\DaiHoc\BaitapDHTH\PhatTrienPhanMem\DoAn\TinHocNgoiSao\TinHocNgoiSao\bin\System.Web.WebPages.Razor.xml
+D:\DaiHoc\BaitapDHTH\PhatTrienPhanMem\DoAn\TinHocNgoiSao\TinHocNgoiSao\obj\Debug\TinHocNgoiSao.csprojResolveAssemblyReference.cache
+D:\DaiHoc\BaitapDHTH\PhatTrienPhanMem\DoAn\TinHocNgoiSao\TinHocNgoiSao\obj\Debug\TinHocNgoiSao.dll
+D:\DaiHoc\BaitapDHTH\PhatTrienPhanMem\DoAn\TinHocNgoiSao\TinHocNgoiSao\obj\Debug\TinHocNgoiSao.pdb
+C:\Users\DELL XPS\Documents\GitHub\ptpm\TinHocNgoiSao\TinHocNgoiSao\bin\TinHocNgoiSao.dll.config
+C:\Users\DELL XPS\Documents\GitHub\ptpm\TinHocNgoiSao\TinHocNgoiSao\bin\TinHocNgoiSao.dll
+C:\Users\DELL XPS\Documents\GitHub\ptpm\TinHocNgoiSao\TinHocNgoiSao\bin\TinHocNgoiSao.pdb
+C:\Users\DELL XPS\Documents\GitHub\ptpm\TinHocNgoiSao\TinHocNgoiSao\bin\Antlr3.Runtime.dll
+C:\Users\DELL XPS\Documents\GitHub\ptpm\TinHocNgoiSao\TinHocNgoiSao\bin\EntityFramework.dll
+C:\Users\DELL XPS\Documents\GitHub\ptpm\TinHocNgoiSao\TinHocNgoiSao\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\DELL XPS\Documents\GitHub\ptpm\TinHocNgoiSao\TinHocNgoiSao\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+C:\Users\DELL XPS\Documents\GitHub\ptpm\TinHocNgoiSao\TinHocNgoiSao\bin\Newtonsoft.Json.dll
+C:\Users\DELL XPS\Documents\GitHub\ptpm\TinHocNgoiSao\TinHocNgoiSao\bin\System.Net.Http.Formatting.dll
+C:\Users\DELL XPS\Documents\GitHub\ptpm\TinHocNgoiSao\TinHocNgoiSao\bin\System.Web.Http.dll
+C:\Users\DELL XPS\Documents\GitHub\ptpm\TinHocNgoiSao\TinHocNgoiSao\bin\System.Web.Http.WebHost.dll
+C:\Users\DELL XPS\Documents\GitHub\ptpm\TinHocNgoiSao\TinHocNgoiSao\bin\System.Web.Mvc.dll
+C:\Users\DELL XPS\Documents\GitHub\ptpm\TinHocNgoiSao\TinHocNgoiSao\bin\System.Web.Optimization.dll
+C:\Users\DELL XPS\Documents\GitHub\ptpm\TinHocNgoiSao\TinHocNgoiSao\bin\System.Web.Providers.dll
+C:\Users\DELL XPS\Documents\GitHub\ptpm\TinHocNgoiSao\TinHocNgoiSao\bin\System.Web.Razor.dll
+C:\Users\DELL XPS\Documents\GitHub\ptpm\TinHocNgoiSao\TinHocNgoiSao\bin\System.Web.WebPages.Deployment.dll
+C:\Users\DELL XPS\Documents\GitHub\ptpm\TinHocNgoiSao\TinHocNgoiSao\bin\System.Web.WebPages.dll
+C:\Users\DELL XPS\Documents\GitHub\ptpm\TinHocNgoiSao\TinHocNgoiSao\bin\System.Web.WebPages.Razor.dll
+C:\Users\DELL XPS\Documents\GitHub\ptpm\TinHocNgoiSao\TinHocNgoiSao\bin\WebGrease.dll
+C:\Users\DELL XPS\Documents\GitHub\ptpm\TinHocNgoiSao\TinHocNgoiSao\bin\EntityFramework.xml
+C:\Users\DELL XPS\Documents\GitHub\ptpm\TinHocNgoiSao\TinHocNgoiSao\bin\Newtonsoft.Json.xml
+C:\Users\DELL XPS\Documents\GitHub\ptpm\TinHocNgoiSao\TinHocNgoiSao\bin\System.Net.Http.Formatting.xml
+C:\Users\DELL XPS\Documents\GitHub\ptpm\TinHocNgoiSao\TinHocNgoiSao\bin\System.Web.Http.xml
+C:\Users\DELL XPS\Documents\GitHub\ptpm\TinHocNgoiSao\TinHocNgoiSao\bin\System.Web.Http.WebHost.xml
+C:\Users\DELL XPS\Documents\GitHub\ptpm\TinHocNgoiSao\TinHocNgoiSao\bin\System.Web.Mvc.xml
+C:\Users\DELL XPS\Documents\GitHub\ptpm\TinHocNgoiSao\TinHocNgoiSao\bin\System.Web.Razor.xml
+C:\Users\DELL XPS\Documents\GitHub\ptpm\TinHocNgoiSao\TinHocNgoiSao\bin\System.Web.WebPages.xml
+C:\Users\DELL XPS\Documents\GitHub\ptpm\TinHocNgoiSao\TinHocNgoiSao\bin\System.Web.WebPages.Deployment.xml
+C:\Users\DELL XPS\Documents\GitHub\ptpm\TinHocNgoiSao\TinHocNgoiSao\bin\System.Web.WebPages.Razor.xml
+C:\Users\DELL XPS\Documents\GitHub\ptpm\TinHocNgoiSao\TinHocNgoiSao\obj\Debug\TinHocNgoiSao.csprojResolveAssemblyReference.cache
+C:\Users\DELL XPS\Documents\GitHub\ptpm\TinHocNgoiSao\TinHocNgoiSao\obj\Debug\TinHocNgoiSao.dll
+C:\Users\DELL XPS\Documents\GitHub\ptpm\TinHocNgoiSao\TinHocNgoiSao\obj\Debug\TinHocNgoiSao.pdb
+D:\DaiHoc\BaitapDHTH\PhatTrienPhanMem\DoAn\Test\TinHocNgoiSao\TinHocNgoiSao\TinHocNgoiSao\bin\TinHocNgoiSao.dll.config
+D:\DaiHoc\BaitapDHTH\PhatTrienPhanMem\DoAn\Test\TinHocNgoiSao\TinHocNgoiSao\TinHocNgoiSao\bin\TinHocNgoiSao.dll
+D:\DaiHoc\BaitapDHTH\PhatTrienPhanMem\DoAn\Test\TinHocNgoiSao\TinHocNgoiSao\TinHocNgoiSao\bin\TinHocNgoiSao.pdb
+D:\DaiHoc\BaitapDHTH\PhatTrienPhanMem\DoAn\Test\TinHocNgoiSao\TinHocNgoiSao\TinHocNgoiSao\bin\Antlr3.Runtime.dll
+D:\DaiHoc\BaitapDHTH\PhatTrienPhanMem\DoAn\Test\TinHocNgoiSao\TinHocNgoiSao\TinHocNgoiSao\bin\EntityFramework.dll
+D:\DaiHoc\BaitapDHTH\PhatTrienPhanMem\DoAn\Test\TinHocNgoiSao\TinHocNgoiSao\TinHocNgoiSao\bin\Microsoft.Web.Infrastructure.dll
+D:\DaiHoc\BaitapDHTH\PhatTrienPhanMem\DoAn\Test\TinHocNgoiSao\TinHocNgoiSao\TinHocNgoiSao\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+D:\DaiHoc\BaitapDHTH\PhatTrienPhanMem\DoAn\Test\TinHocNgoiSao\TinHocNgoiSao\TinHocNgoiSao\bin\Newtonsoft.Json.dll
+D:\DaiHoc\BaitapDHTH\PhatTrienPhanMem\DoAn\Test\TinHocNgoiSao\TinHocNgoiSao\TinHocNgoiSao\bin\System.Net.Http.Formatting.dll
+D:\DaiHoc\BaitapDHTH\PhatTrienPhanMem\DoAn\Test\TinHocNgoiSao\TinHocNgoiSao\TinHocNgoiSao\bin\System.Web.Http.dll
+D:\DaiHoc\BaitapDHTH\PhatTrienPhanMem\DoAn\Test\TinHocNgoiSao\TinHocNgoiSao\TinHocNgoiSao\bin\System.Web.Http.WebHost.dll
+D:\DaiHoc\BaitapDHTH\PhatTrienPhanMem\DoAn\Test\TinHocNgoiSao\TinHocNgoiSao\TinHocNgoiSao\bin\System.Web.Mvc.dll
+D:\DaiHoc\BaitapDHTH\PhatTrienPhanMem\DoAn\Test\TinHocNgoiSao\TinHocNgoiSao\TinHocNgoiSao\bin\System.Web.Optimization.dll
+D:\DaiHoc\BaitapDHTH\PhatTrienPhanMem\DoAn\Test\TinHocNgoiSao\TinHocNgoiSao\TinHocNgoiSao\bin\System.Web.Providers.dll
+D:\DaiHoc\BaitapDHTH\PhatTrienPhanMem\DoAn\Test\TinHocNgoiSao\TinHocNgoiSao\TinHocNgoiSao\bin\System.Web.Razor.dll
+D:\DaiHoc\BaitapDHTH\PhatTrienPhanMem\DoAn\Test\TinHocNgoiSao\TinHocNgoiSao\TinHocNgoiSao\bin\System.Web.WebPages.Deployment.dll
+D:\DaiHoc\BaitapDHTH\PhatTrienPhanMem\DoAn\Test\TinHocNgoiSao\TinHocNgoiSao\TinHocNgoiSao\bin\System.Web.WebPages.dll
+D:\DaiHoc\BaitapDHTH\PhatTrienPhanMem\DoAn\Test\TinHocNgoiSao\TinHocNgoiSao\TinHocNgoiSao\bin\System.Web.WebPages.Razor.dll
+D:\DaiHoc\BaitapDHTH\PhatTrienPhanMem\DoAn\Test\TinHocNgoiSao\TinHocNgoiSao\TinHocNgoiSao\bin\WebGrease.dll
+D:\DaiHoc\BaitapDHTH\PhatTrienPhanMem\DoAn\Test\TinHocNgoiSao\TinHocNgoiSao\TinHocNgoiSao\bin\EntityFramework.xml
+D:\DaiHoc\BaitapDHTH\PhatTrienPhanMem\DoAn\Test\TinHocNgoiSao\TinHocNgoiSao\TinHocNgoiSao\bin\Newtonsoft.Json.xml
+D:\DaiHoc\BaitapDHTH\PhatTrienPhanMem\DoAn\Test\TinHocNgoiSao\TinHocNgoiSao\TinHocNgoiSao\bin\System.Net.Http.Formatting.xml
+D:\DaiHoc\BaitapDHTH\PhatTrienPhanMem\DoAn\Test\TinHocNgoiSao\TinHocNgoiSao\TinHocNgoiSao\bin\System.Web.Http.xml
+D:\DaiHoc\BaitapDHTH\PhatTrienPhanMem\DoAn\Test\TinHocNgoiSao\TinHocNgoiSao\TinHocNgoiSao\bin\System.Web.Http.WebHost.xml
+D:\DaiHoc\BaitapDHTH\PhatTrienPhanMem\DoAn\Test\TinHocNgoiSao\TinHocNgoiSao\TinHocNgoiSao\bin\System.Web.Mvc.xml
+D:\DaiHoc\BaitapDHTH\PhatTrienPhanMem\DoAn\Test\TinHocNgoiSao\TinHocNgoiSao\TinHocNgoiSao\bin\System.Web.Razor.xml
+D:\DaiHoc\BaitapDHTH\PhatTrienPhanMem\DoAn\Test\TinHocNgoiSao\TinHocNgoiSao\TinHocNgoiSao\bin\System.Web.WebPages.xml
+D:\DaiHoc\BaitapDHTH\PhatTrienPhanMem\DoAn\Test\TinHocNgoiSao\TinHocNgoiSao\TinHocNgoiSao\bin\System.Web.WebPages.Deployment.xml
+D:\DaiHoc\BaitapDHTH\PhatTrienPhanMem\DoAn\Test\TinHocNgoiSao\TinHocNgoiSao\TinHocNgoiSao\bin\System.Web.WebPages.Razor.xml
+D:\DaiHoc\BaitapDHTH\PhatTrienPhanMem\DoAn\Test\TinHocNgoiSao\TinHocNgoiSao\TinHocNgoiSao\obj\Debug\TinHocNgoiSao.csprojResolveAssemblyReference.cache
+D:\DaiHoc\BaitapDHTH\PhatTrienPhanMem\DoAn\Test\TinHocNgoiSao\TinHocNgoiSao\TinHocNgoiSao\obj\Debug\TinHocNgoiSao.dll
+D:\DaiHoc\BaitapDHTH\PhatTrienPhanMem\DoAn\Test\TinHocNgoiSao\TinHocNgoiSao\TinHocNgoiSao\obj\Debug\TinHocNgoiSao.pdb
+C:\Users\DELL XPS\Documents\GitHub\ptpm\New folder\TinHocNgoiSao\TinHocNgoiSao\TinHocNgoiSao\bin\TinHocNgoiSao.dll.config
+C:\Users\DELL XPS\Documents\GitHub\ptpm\New folder\TinHocNgoiSao\TinHocNgoiSao\TinHocNgoiSao\bin\TinHocNgoiSao.dll
+C:\Users\DELL XPS\Documents\GitHub\ptpm\New folder\TinHocNgoiSao\TinHocNgoiSao\TinHocNgoiSao\bin\TinHocNgoiSao.pdb
+C:\Users\DELL XPS\Documents\GitHub\ptpm\New folder\TinHocNgoiSao\TinHocNgoiSao\TinHocNgoiSao\bin\Antlr3.Runtime.dll
+C:\Users\DELL XPS\Documents\GitHub\ptpm\New folder\TinHocNgoiSao\TinHocNgoiSao\TinHocNgoiSao\bin\EntityFramework.dll
+C:\Users\DELL XPS\Documents\GitHub\ptpm\New folder\TinHocNgoiSao\TinHocNgoiSao\TinHocNgoiSao\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\DELL XPS\Documents\GitHub\ptpm\New folder\TinHocNgoiSao\TinHocNgoiSao\TinHocNgoiSao\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+C:\Users\DELL XPS\Documents\GitHub\ptpm\New folder\TinHocNgoiSao\TinHocNgoiSao\TinHocNgoiSao\bin\Newtonsoft.Json.dll
+C:\Users\DELL XPS\Documents\GitHub\ptpm\New folder\TinHocNgoiSao\TinHocNgoiSao\TinHocNgoiSao\bin\System.Net.Http.Formatting.dll
+C:\Users\DELL XPS\Documents\GitHub\ptpm\New folder\TinHocNgoiSao\TinHocNgoiSao\TinHocNgoiSao\bin\System.Web.Http.dll
+C:\Users\DELL XPS\Documents\GitHub\ptpm\New folder\TinHocNgoiSao\TinHocNgoiSao\TinHocNgoiSao\bin\System.Web.Http.WebHost.dll
+C:\Users\DELL XPS\Documents\GitHub\ptpm\New folder\TinHocNgoiSao\TinHocNgoiSao\TinHocNgoiSao\bin\System.Web.Mvc.dll
+C:\Users\DELL XPS\Documents\GitHub\ptpm\New folder\TinHocNgoiSao\TinHocNgoiSao\TinHocNgoiSao\bin\System.Web.Optimization.dll
+C:\Users\DELL XPS\Documents\GitHub\ptpm\New folder\TinHocNgoiSao\TinHocNgoiSao\TinHocNgoiSao\bin\System.Web.Providers.dll
+C:\Users\DELL XPS\Documents\GitHub\ptpm\New folder\TinHocNgoiSao\TinHocNgoiSao\TinHocNgoiSao\bin\System.Web.Razor.dll
+C:\Users\DELL XPS\Documents\GitHub\ptpm\New folder\TinHocNgoiSao\TinHocNgoiSao\TinHocNgoiSao\bin\System.Web.WebPages.Deployment.dll
+C:\Users\DELL XPS\Documents\GitHub\ptpm\New folder\TinHocNgoiSao\TinHocNgoiSao\TinHocNgoiSao\bin\System.Web.WebPages.dll
+C:\Users\DELL XPS\Documents\GitHub\ptpm\New folder\TinHocNgoiSao\TinHocNgoiSao\TinHocNgoiSao\bin\System.Web.WebPages.Razor.dll
+C:\Users\DELL XPS\Documents\GitHub\ptpm\New folder\TinHocNgoiSao\TinHocNgoiSao\TinHocNgoiSao\bin\WebGrease.dll
+C:\Users\DELL XPS\Documents\GitHub\ptpm\New folder\TinHocNgoiSao\TinHocNgoiSao\TinHocNgoiSao\bin\EntityFramework.xml
+C:\Users\DELL XPS\Documents\GitHub\ptpm\New folder\TinHocNgoiSao\TinHocNgoiSao\TinHocNgoiSao\bin\Newtonsoft.Json.xml
+C:\Users\DELL XPS\Documents\GitHub\ptpm\New folder\TinHocNgoiSao\TinHocNgoiSao\TinHocNgoiSao\bin\System.Net.Http.Formatting.xml
+C:\Users\DELL XPS\Documents\GitHub\ptpm\New folder\TinHocNgoiSao\TinHocNgoiSao\TinHocNgoiSao\bin\System.Web.Http.xml
+C:\Users\DELL XPS\Documents\GitHub\ptpm\New folder\TinHocNgoiSao\TinHocNgoiSao\TinHocNgoiSao\bin\System.Web.Http.WebHost.xml
+C:\Users\DELL XPS\Documents\GitHub\ptpm\New folder\TinHocNgoiSao\TinHocNgoiSao\TinHocNgoiSao\bin\System.Web.Mvc.xml
+C:\Users\DELL XPS\Documents\GitHub\ptpm\New folder\TinHocNgoiSao\TinHocNgoiSao\TinHocNgoiSao\bin\System.Web.Razor.xml
+C:\Users\DELL XPS\Documents\GitHub\ptpm\New folder\TinHocNgoiSao\TinHocNgoiSao\TinHocNgoiSao\bin\System.Web.WebPages.xml
+C:\Users\DELL XPS\Documents\GitHub\ptpm\New folder\TinHocNgoiSao\TinHocNgoiSao\TinHocNgoiSao\bin\System.Web.WebPages.Deployment.xml
+C:\Users\DELL XPS\Documents\GitHub\ptpm\New folder\TinHocNgoiSao\TinHocNgoiSao\TinHocNgoiSao\bin\System.Web.WebPages.Razor.xml
+C:\Users\DELL XPS\Documents\GitHub\ptpm\New folder\TinHocNgoiSao\TinHocNgoiSao\TinHocNgoiSao\obj\Debug\TinHocNgoiSao.dll
+C:\Users\DELL XPS\Documents\GitHub\ptpm\New folder\TinHocNgoiSao\TinHocNgoiSao\TinHocNgoiSao\obj\Debug\TinHocNgoiSao.pdb
+C:\Users\DELL XPS\Documents\GitHub\ptpm\New folder\TinHocNgoiSao\TinHocNgoiSao\TinHocNgoiSao\obj\Debug\TinHocNgoiSao.csprojResolveAssemblyReference.cache
+D:\New folder\New folder\TinHocNgoiSao\TinHocNgoiSao\TinHocNgoiSao\bin\TinHocNgoiSao.dll.config
+D:\New folder\New folder\TinHocNgoiSao\TinHocNgoiSao\TinHocNgoiSao\bin\TinHocNgoiSao.dll
+D:\New folder\New folder\TinHocNgoiSao\TinHocNgoiSao\TinHocNgoiSao\bin\TinHocNgoiSao.pdb
+D:\New folder\New folder\TinHocNgoiSao\TinHocNgoiSao\TinHocNgoiSao\bin\Antlr3.Runtime.dll
+D:\New folder\New folder\TinHocNgoiSao\TinHocNgoiSao\TinHocNgoiSao\bin\EntityFramework.dll
+D:\New folder\New folder\TinHocNgoiSao\TinHocNgoiSao\TinHocNgoiSao\bin\Microsoft.Web.Infrastructure.dll
+D:\New folder\New folder\TinHocNgoiSao\TinHocNgoiSao\TinHocNgoiSao\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+D:\New folder\New folder\TinHocNgoiSao\TinHocNgoiSao\TinHocNgoiSao\bin\Newtonsoft.Json.dll
+D:\New folder\New folder\TinHocNgoiSao\TinHocNgoiSao\TinHocNgoiSao\bin\System.Net.Http.Formatting.dll
+D:\New folder\New folder\TinHocNgoiSao\TinHocNgoiSao\TinHocNgoiSao\bin\System.Web.Http.dll
+D:\New folder\New folder\TinHocNgoiSao\TinHocNgoiSao\TinHocNgoiSao\bin\System.Web.Http.WebHost.dll
+D:\New folder\New folder\TinHocNgoiSao\TinHocNgoiSao\TinHocNgoiSao\bin\System.Web.Mvc.dll
+D:\New folder\New folder\TinHocNgoiSao\TinHocNgoiSao\TinHocNgoiSao\bin\System.Web.Optimization.dll
+D:\New folder\New folder\TinHocNgoiSao\TinHocNgoiSao\TinHocNgoiSao\bin\System.Web.Providers.dll
+D:\New folder\New folder\TinHocNgoiSao\TinHocNgoiSao\TinHocNgoiSao\bin\System.Web.Razor.dll
+D:\New folder\New folder\TinHocNgoiSao\TinHocNgoiSao\TinHocNgoiSao\bin\System.Web.WebPages.Deployment.dll
+D:\New folder\New folder\TinHocNgoiSao\TinHocNgoiSao\TinHocNgoiSao\bin\System.Web.WebPages.dll
+D:\New folder\New folder\TinHocNgoiSao\TinHocNgoiSao\TinHocNgoiSao\bin\System.Web.WebPages.Razor.dll
+D:\New folder\New folder\TinHocNgoiSao\TinHocNgoiSao\TinHocNgoiSao\bin\WebGrease.dll
+D:\New folder\New folder\TinHocNgoiSao\TinHocNgoiSao\TinHocNgoiSao\bin\EntityFramework.xml
+D:\New folder\New folder\TinHocNgoiSao\TinHocNgoiSao\TinHocNgoiSao\bin\Newtonsoft.Json.xml
+D:\New folder\New folder\TinHocNgoiSao\TinHocNgoiSao\TinHocNgoiSao\bin\System.Net.Http.Formatting.xml
+D:\New folder\New folder\TinHocNgoiSao\TinHocNgoiSao\TinHocNgoiSao\bin\System.Web.Http.xml
+D:\New folder\New folder\TinHocNgoiSao\TinHocNgoiSao\TinHocNgoiSao\bin\System.Web.Http.WebHost.xml
+D:\New folder\New folder\TinHocNgoiSao\TinHocNgoiSao\TinHocNgoiSao\bin\System.Web.Mvc.xml
+D:\New folder\New folder\TinHocNgoiSao\TinHocNgoiSao\TinHocNgoiSao\bin\System.Web.Razor.xml
+D:\New folder\New folder\TinHocNgoiSao\TinHocNgoiSao\TinHocNgoiSao\bin\System.Web.WebPages.xml
+D:\New folder\New folder\TinHocNgoiSao\TinHocNgoiSao\TinHocNgoiSao\bin\System.Web.WebPages.Deployment.xml
+D:\New folder\New folder\TinHocNgoiSao\TinHocNgoiSao\TinHocNgoiSao\bin\System.Web.WebPages.Razor.xml
+D:\New folder\New folder\TinHocNgoiSao\TinHocNgoiSao\TinHocNgoiSao\obj\Debug\TinHocNgoiSao.csprojResolveAssemblyReference.cache
+D:\New folder\New folder\TinHocNgoiSao\TinHocNgoiSao\TinHocNgoiSao\obj\Debug\TinHocNgoiSao.dll
+D:\New folder\New folder\TinHocNgoiSao\TinHocNgoiSao\TinHocNgoiSao\obj\Debug\TinHocNgoiSao.pdb

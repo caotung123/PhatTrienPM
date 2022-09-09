@@ -1,0 +1,42 @@
+﻿@model  TinHocNgoiSao.Models.THIETBI
+@{
+    ViewBag.Title = "Chitietsp";
+    Layout = "~/Views/Shared/Masterpage.cshtml";
+}
+
+<div class="container">
+    <p>
+        @Html.ActionLink("Edit", "Suasp", new { id = Model.MATB }) |
+        @Html.ActionLink("Back to List", "Home")
+    </p>
+</div>
+<link href="~/Content/StyleSheet3.css" rel="stylesheet" />
+<html lang="en">
+
+<head>
+    <title>@Html.DisplayFor(model => model.TENTB)</title>
+    <link href="https://fonts.googleapis.com/css?family=Bentham|Playfair+Display|Raleway:400,500|Suranna|Trocchi" rel="stylesheet">
+</head>
+
+<body>
+    <div class="wrapper">
+        <div class="product-img">
+            <img src="@Url.Content("~/Content/HinhAnhSanPham/" + Model.HINHANH)" height="420" width="327" />
+        </div>
+        <div class="product-info">
+            <div class="product-text">
+                <h1>@Html.DisplayFor(model => model.TENTB)</h1>
+                <h2>cửa hàng quần áo</h2>
+                <p><br>Loại: @Html.DisplayFor(model => model.MALOAI)</p>
+            </div>
+            <div class="product-price-btn">
+                <p style="margin-top:-50px"><span>@String.Format("{0:0.0}", Model.GIA)</span>$</p>
+
+                <a href="/TinHocNgoiSao/ThemMatHang/@Model.MATB"><img src="~/Content/Hinh/muangay.png" height="80" width="250" /></a>
+            </div>
+        </div>
+    </div>
+
+</body>
+
+</html>

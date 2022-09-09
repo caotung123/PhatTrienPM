@@ -1,0 +1,424 @@
+﻿<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>@ViewBag.Title</title>
+
+    <link href="~/Content/bootstrap/css/bootstrap.min.css" rel="stylesheet" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css"><!--font icon cho header-->
+
+    <link rel="stylesheet" href="https://pro.fontawesome.com/releases/v5.10.0/css/all.css" integrity="sha384-AYmEC3Yw5cVb3ZcuHtOA93w35dYTsvhLPVnYs9eStHfGJvOvKxVfELGroGkvsg+p" crossorigin="anonymous" />
+    
+    <link href="~/Content/themes/StyleSheet1.css" rel="stylesheet" />
+</head>
+@using TinHocNgoiSao.Models;
+<body>
+    <style>
+        #backtop {
+            width: 50px;
+            height: 50px;
+            background-color: orange;
+            color: #FFFFFF;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            border-radius: 50%;
+            position: fixed;
+            bottom: 40px;
+            float: right;
+            right: 20px;
+            cursor: inherit;
+        }
+    </style>
+    <header>
+        <!--header-->
+        <div class="header-middle">
+            <!--header-middle-->
+            <div class="container">
+                <div class="row">
+                    <div class="col-md-3">
+                        <div class="pull-left">
+                            <a href="/TinHocNgoiSao/Home"><img src="~/Content/Hinh/logo.png" style="width:210px;height:80px" /></a>
+                        </div>
+                    </div>
+                    <div class="col-md-9">
+                        <div class="pull-left">
+                            <ul class="nav nav-navbar">
+                                <li>
+                                    <div class="search_box pull-left">
+                                        <form action="/TinHocNgoiSao/XuLiTK" method="post">
+                                            <input type="text" placeholder="Nhập từ khóa sản phẩm..." name="txtTuKhoa" style="height:45px;" />
+                                            <input type="submit" value="Tìm" style="height:45px;width:75px; background-color:red; color:white ; font-weight:bold ;border:none;border-radius:10px" />
+                                        </form>
+                                    </div>
+                                </li>
+                                <li>
+                                    <a href="#"><i class="fa fa-phone"></i></a>
+                                </li>
+                                <li>
+                                    <a>HOTLINE</a>
+                                    <br />
+                                    <a style="font-weight:bold">19002403 (8:30 - 21:00)</a>
+                                </li>
+                                <li>
+                                    <a href="/TinHocNgoiSao/XemGioHang">
+                                        <i class="fa fa-shopping-cart"></i>GIỎ HÀNG
+                                        @{
+                                            GioHang g = Session["gh"] as GioHang;
+                                            if (g != null)
+                                            {
+                                                <text>(@g.SoMatHang())</text>
+                                            }
+                                            else
+                                            {
+                                                <span>(0)</span>
+                                            }
+                                        }<br />
+                                        @{
+                                            if (Session["khachhang"] != null)
+                                            {
+                                                var k = Session["khachhang"] as KHACHHANG;
+                                                <a href="/TinHocNgoiSao/DangXuat">Đăng Xuất</a>
+                                                <p>Chào bạn, @k.TaiKhoan</p>
+                                            }
+                                        }
+                                    </a>
+                                </li>
+                                <li><i class="fa fa-user"></i></li>
+                                <li>
+                                    <a href="/TinHocNgoiSao/DangNhap">Đăng nhập</a>
+                                    <br />
+                                    <a href="/TinHocNgoiSao/DangXuat">Đăng Ký</a>
+                                </li>
+                              
+                            </ul>
+                        </div>
+
+                    </div>
+                </div>
+            </div>
+        </div><!--/header-middle-->
+        <div class="header-bottom">
+            <!--header-bottom-->
+            <div class="">
+                <div class="row bg-danger">
+
+                    <div class="align-items-center">
+                        <ul class="nav">
+                            <li class="nav-item  btn-outline-warning">
+                                <a class="nav-link mt-1" href="#" style="color:white">TRANG CHỦ</a>
+                            </li>
+                            <li class="nav-item  btn-outline-warning">
+                                <a class="nav-link mt-1" href="#" style="color:white">LẮP ĐẶT PHÒNG NET</a>
+                            </li>
+
+                            <li class="nav-item  btn-outline-warning">
+                                <a class="nav-link mt-1" href="#" style="color:white">TRẢ GÓP</a>
+                            </li>
+                            <li class="nav-item  btn-outline-warning">
+                                <a class="nav-link mt-1" href="#" style="color:white">BẢNG GIÁ</a>
+                            </li>
+                            <li class="nav-item  btn-outline-warning">
+                                <a class="nav-link mt-1" href="#" style="color:white">XÂY DỰNG CẤU HÌNH </a>
+                            </li>
+                            <li class="nav-item  btn-outline-warning">
+                                <a class="nav-link mt-1" href="#" style="color:white">KIỂM TRA BẢO HÀNH </a>
+                            </li>
+                            <li class="nav-item  btn-outline-warning">
+                                <a class="nav-link mt-1" href="#" style="color:white">THIẾT BỊ MINING </a>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </header>
+    <!--Body-->
+    @RenderBody()
+    <div id="backtop">
+        <i class="fas fa-arrow-alt-circle-up"></i>
+    </div>
+
+    <br />
+    <br />
+    <br />
+    <br />
+    <br />
+    <br />
+    <br />
+    <br /><br />
+
+    <!--Footer top-->
+    <div class="container">
+        <div class="row">
+            <div class="col-sm-4">
+                <a style="font-size:25px;font-family:'Roboto';color:red"><i class="fa fa-refresh"></i></a>
+                <h3 style="color:red">Đổi trả dễ dàng</h3>
+                <a style="font-size:15px;font-family:'Roboto';color:gray">Nếu sản phẩm lỗi</a>
+            </div>
+            <div class="col-md-4">
+
+                <a style="font-size:25px;font-family:'Roboto';color:red"><i class="fa fa-id-card"></i></a>
+                <h3 style="color:red">Thanh toán an toàn</h3>
+                <a style="font-size:15px;font-family:'Roboto';color:gray">Đảm bảo 100%</a>
+            </div>
+            <div class="col-md-4">
+                <a style="font-size:25px;font-family:'Roboto';color:red"><i class="fa fa-phone"></i></a>
+                <h3 style="color:red">Hỗ trợ 24/7</h3>
+                <a style="font-size:15px;font-family:'Roboto';color:gray">Hỗ trợ tận tâm, nhiệt tình</a>
+            </div>
+        </div>
+    </div>
+    <!--Footer center-->
+    <div class="container">
+        <div class="row">
+            <div class="col-sm-4">
+                <h4 style="color:red"> Về THNS</h4>
+                <a href="#">Về chúng tôi</a><br />
+                <a href="#">Chính sách trả góp</a><br />
+                <a href="#">Tuyển dụng</a><br />
+                <a href="#">Chính sách bảo mật thanh toán</a><br />
+                <a href="#">Chính sách bảo mật thông tin cá nhân</a><br />
+                <a href="#">Kiểm tra bảo hành</a><br />
+                <a href="#">Điều khoản sử dụng</a><br />
+                <a href="#">Tư vấn mua hàng</a><br />
+                <a href="#">Bảo hành</a><br />
+                <a href="#">Đổi trả hàng</a><br />
+                <a href="#">Bảo hành</a><br />
+            </div>
+            <div class="col-sm-4">
+                <h5 style="font-weight:bold">Bảo hành</h5><br />
+                <a>0919 267 015 - HCM</a><br />
+                <a>0903 955 507 - Tỉnh</a><br />
+                <a style="font-weight:bold">Tiếp nhận phản ánh</a><br />
+                <a>0931 889 888 - CSKH</a><br />
+                <a>email: cskh@tinhocngoisao.com</a><br />
+                <a style="font-weight:bold">Kế toán hóa đơn</a><br />
+                <a>0931 889 888 - Hiếu</a><br />
+                <a style="font-weight:bold">Kỹ thuật máy tính</a><br />
+                <a>0931 889 888 - Hiếu</a><br />
+                <a>0931 889 888 - Hiếu</a><br />
+                <a>0931 889 888 - Hiếu</a><br />
+                <a style="font-weight:bold">Kỹ thuật coin</a><br />
+                <a>0931 889 888</a><br />
+                <a style="font-weight:bold">Kỹ thuật camera</a><br />
+                <a>0931 889 888</a><br />
+                <a style="font-weight:bold">Giao nhận đơn hàng</a><br />
+                <a>0931 889 888 - Hưng</a><br />
+            </div>
+            <div class="col-sm-4">
+                <h5 style="font-weight:bold">Thông tin liên hệ</h5><br />
+                <a style="font-weight:bold">Tư vấn lắp đặt phòng game</a><br />
+                <a>0931 889 888 - Mr.Minh</a><br />
+                <a>0931 889 888 - Mr.Cường</a><br />
+                <a>email: cskh@tinhocngoisao.com</a><br />
+                <a style="font-weight:bold">Đặt hàng trực tuyến</a><br />
+                <a>0931 889 888 - Kinh doanh 1</a><br />
+                <a>0931 889 888 - Kinh doanh 2</a><br />
+                <a>0931 889 888 - Kinh doanh 3</a><br />
+                <a>0931 889 888 - Kinh doanh 4</a><br />
+                <a>0931 889 888 - Kinh doanh 5</a><br />
+                <a>0931 889 888 - Kinh doanh 6</a><br />
+                <a style="font-weight:bold">Tư vấn trả góp</a><br />
+                <a>0931 889 888 - Hiếu</a><br />
+                <a>0931 889 888 - Hiếu</a><br />
+
+                <a style="font-weight:bold">Thu mnua hàng cũ</a><br />
+                <a>0931 889 888</a><br />
+
+            </div>
+        </div>
+    </div>
+   <div class="container">
+       <div class="row">
+           <div class="col-md-6">
+               <h4 style="color:red">HỆ THỐNG SHOWROOM</h4><br />
+               <h5 style="color:grey">SHOWROOM TÂN BÌNH</h5>
+               <a style="font-weight:bold">Địa chỉ:</a><a>384/8 Cộng hòa, Phường 13, Tân Bình, Hồ Chí Minh</a><br />
+               <a style="font-weight:bold">Điên thoại:</a><a>0899 000 001</a><br />
+               <a style="font-weight:bold">Thời gian làm việc:</a><a>T2-CN (7:00 - 21-00)</a><br /><br />
+
+               <h5 style="color:grey">SHOWROOM QUẬN 9</h5>
+               <a style="font-weight:bold">Địa chỉ:</a><a>180 Lê Thành Việt, Quận 9, Hồ Chí Minh</a><br />
+               <a style="font-weight:bold">Điên thoại:</a><a>0899 000 003</a><br />
+               <a style="font-weight:bold">Thời gian làm việc:</a><a>T2-CN (7:00 - 21-00)</a><br /><br />
+           </div>
+           <div class="col-md-6">
+               <br />
+               <h5 style="color:grey">SHOWROOM QUẬN 11</h5>
+               <a style="font-weight:bold">Địa chỉ:</a><a>Lãnh Đinh Bàng, Phường 13, Quận 11, Hồ Chí Minh</a><br />
+               <a style="font-weight:bold">Điên thoại:</a><a>0899 000 004</a><br />
+               <a style="font-weight:bold">Thời gian làm việc:</a><a>T2-CN (7:00 - 21-00)</a><br /><br />
+
+               <h5 style="color:grey">SHOWROOM QUẬN 9</h5>
+               <a style="font-weight:bold">Địa chỉ:</a><a>180 Điện Biên Phủ, Quận Bình Thạnh, Hồ Chí Minh</a><br />
+               <a style="font-weight:bold">Điên thoại:</a><a>0899 000 004</a><br />
+               <a style="font-weight:bold">Thời gian làm việc:</a><a>T2-CN (7:00 - 21-00)</a><br /><br />
+           </div>
+       </div>
+   </div>
+    
+
+    <footer class="footer">
+
+        <!--Footer-->
+        <div class="footer-top">
+            <div class="container">
+                <div class="row">
+                    <div class="col-sm-3">
+                        <div class="info">
+                            <h2><span>e</span>-shopper</h2>
+                            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit,sed do eiusmod tempor</p>
+                        </div>
+                    </div>
+                    <div class="col-sm-2">
+                        <div class="col">
+                            <div style="text-align:center;padding-top:30px">
+                                <a href="#">
+                                    <div class="iframe-img">
+                                        <img src="~/Content/Images/iframe1.png" alt="" />
+                                    </div>
+                                </a>
+                                <p style="color: #8C8C88; font-family: 'Roboto', sans-serif;">Circle of Hands</p>
+                                <p style="color: #8C8C88; font-family: 'Roboto', sans-serif;">24 DEC 2014</p>
+                            </div>
+                        </div>
+
+                    </div>
+                    <div class="col-sm-2">
+                        <div class="col">
+                            <div style="text-align:center;padding-top:30px">
+                                <a href="#">
+                                    <div class="iframe-img">
+                                        <img src="~/Content/Images/iframe1.png" alt="" />
+                                    </div>
+                                </a>
+                                <p style="color: #8C8C88; font-family: 'Roboto', sans-serif;">Circle of Hands</p>
+                                <p style="color: #8C8C88; font-family: 'Roboto', sans-serif;">24 DEC 2014</p>
+                            </div>
+                        </div>
+
+                    </div>
+                    <div class="col-sm-2">
+                        <div class="col">
+                            <div style="text-align:center;padding-top:30px">
+                                <a href="#">
+                                    <div class="iframe-img">
+                                        <img src="~/Content/Images/iframe1.png" alt="" />
+                                    </div>
+                                </a>
+                                <p style="color: #8C8C88; font-family: 'Roboto', sans-serif;">Circle of Hands</p>
+                                <p style="color: #8C8C88; font-family: 'Roboto', sans-serif;">24 DEC 2014</p>
+                            </div>
+                        </div>
+
+                    </div>
+
+                    <div class="col-sm-3">
+                        <div class="address">
+                            <img src="~/Content/Images/map.png" />
+                            <p>505 S Atlantic Ave Virginia Beach, VA(Virginia)</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="footer-widget">
+            <div class="container">
+                <div class="row">
+                    <div class="col-sm-2">
+                        <div class="single-widget">
+                            <h2>Service</h2>
+                            <ul class="nav nav-pills nav-stacked">
+                                <li><a href="">Online Help</a></li>
+                                <li><a href="">Contact Us</a></li>
+                                <li><a href="">Order Status</a></li>
+                                <li><a href="">Change Location</a></li>
+                                <li><a href="">FAQs</a></li>
+                            </ul>
+                        </div>
+                    </div>
+                    <div class="col-sm-2">
+                        <div class="single-widget">
+                            <h2>Quock Shop</h2>
+                            <ul class="nav nav-pills nav-stacked">
+                                <li><a href="">T-Shirt</a></li>
+                                <li><a href="">Mens</a></li>
+                                <li><a href="">Womens</a></li>
+                                <li><a href="">Gift Cards</a></li>
+                                <li><a href="">Shoes</a></li>
+                            </ul>
+                        </div>
+                    </div>
+                    <div class="col-sm-2">
+                        <div class="single-widget">
+                            <h2>Policies</h2>
+                            <ul class="nav nav-pills nav-stacked">
+                                <li><a href="">Terms of Use</a></li>
+                                <li><a href="">Privecy Policy</a></li>
+                                <li><a href="">Refund Policy</a></li>
+                                <li><a href="">Billing System</a></li>
+                                <li><a href="">Ticket System</a></li>
+                            </ul>
+                        </div>
+                    </div>
+                    <div class="col-sm-2">
+                        <div class="single-widget">
+                            <h2>About Shopper</h2>
+                            <ul class="nav nav-pills nav-stacked">
+                                <li><a href="">Company Information</a></li>
+                                <li><a href="">Careers</a></li>
+                                <li><a href="">Store Location</a></li>
+                                <li><a href="">Affillate Program</a></li>
+                                <li><a href="">Copyright</a></li>
+                            </ul>
+                        </div>
+                    </div>
+                    <div class="col-sm-3 col-sm-offset-1">
+                        <div class="single-widget">
+                            <h2>About Shopper</h2>
+                            <form action="#" class="searchform">
+                                <input type="text" placeholder="Your email address" /><input id="Submit1" type="submit" value="submit" style="background-color:orange" />
+
+                            </form>
+                        </div>
+                    </div>
+
+                </div>
+            </div>
+        </div>
+
+        <div class="footer-bottom">
+            <div class="container">
+                <div class="row">
+                    <p class="pull-left">Copyright ©</p>
+                    <p class="pull-right">Designed by <span><a>Themeum</a></span></p>
+                </div>
+            </div>
+        </div>
+    </footer><!--/Footer-->
+
+
+
+
+    <script src="~/Content/bootstrap/js/jquery-3.3.1.min.js"></script>
+    <script src="~/Content/bootstrap/js/bootstrap.min.js"></script>
+    <script src="https://code.jquery.com/jquery-3.6.0.js" integrity="sha256-H+K7U5CnXl1h5ywQfKtSj8PCmoN9aaq30gDh27Xc0jk=" crossorigin="anonymous"></script>
+    <script>
+        $(document).ready(function () {
+            $(window).scroll(function () {
+                if ($(this).scrollTop()) {
+                    $('#backtop').fadeIn();
+                } else {
+                    $('#backtop').fadeOut();
+                }
+            });
+            $("#backtop").click(function () {
+                $('html, body').animate({ scrollTop: 0 }, 500);
+            });
+        });
+    </script>
+
+</body>
+</html>

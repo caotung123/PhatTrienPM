@@ -1,0 +1,35 @@
+﻿@{
+    ViewBag.Title = "XacNhanDongHang";
+    Layout = "~/Views/Shared/Masterpage.cshtml";
+}
+
+@using TinHocNgoiSao.Models;
+@model KHACHHANG
+<div class="container">
+    <form action="/TinHocNgoiSao/LuuDatHang" method="post">
+        <h2 class="w-100">Thông tin đặt hàng</h2>
+        <table>
+            <tr>
+                <td>Họ tên: @Model.TENKH</td>
+                <td>Điện thoại: @Model.SDT</td>
+            </tr>
+            <tr>
+                <td colspan="2" class="text-left">Địa chỉ: @Model.DIACHI</td>
+            </tr>
+            <tr>
+                <td>Ngày Đặt: @DateTime.Now.ToShortDateString() &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+                <td>Ngày Giao: <input type="date" name="txt_Date" /></td>
+            </tr>
+            <tr>
+                <td> &nbsp; </td>
+                <td> </td>
+            </tr>
+          
+                
+            <tr>
+                <td></td>
+                <td><input type="submit" value="Đồng ý đặt hàng" /></td>
+            </tr>
+        </table>
+    </form>
+</div>
